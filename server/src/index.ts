@@ -1,6 +1,7 @@
 import { createServer } from "http";
 import { Server } from "socket.io";
 import * as dotenv from "dotenv";
+import messageType from "./types/messageType";
 
 dotenv.config();
 
@@ -18,7 +19,7 @@ io.on("connection", (socket) => {
 
 	io.emit("users", { users, join: socket.id });
 
-	socket.on("message", (message) => {
+	socket.on("message", (message: messageType) => {
 		io.emit("message", message);
 	});
 	socket.on("disconnecting", () => {
