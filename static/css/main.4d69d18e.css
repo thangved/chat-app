@@ -1,0 +1,1 @@
+*{scroll-behavior:smooth}.message{animation:message .4s ease forwards;-webkit-animation:message .4s ease forwards}@-webkit-keyframes message{0%{margin:5px;opacity:0}to{opacity:1}}@keyframes message{0%{margin:5px;opacity:0}to{opacity:1}}
