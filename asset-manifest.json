@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "thangved.github.io/chat-app/static/css/main.4d69d18e.css",
-    "main.js": "thangved.github.io/chat-app/static/js/main.10627ed3.js",
-    "static/js/922.9b587209.chunk.js": "thangved.github.io/chat-app/static/js/922.9b587209.chunk.js",
-    "index.html": "thangved.github.io/chat-app/index.html"
+    "main.css": "/chat-app/static/css/main.4d69d18e.css",
+    "main.js": "/chat-app/static/js/main.470793f8.js",
+    "static/js/922.9b587209.chunk.js": "/chat-app/static/js/922.9b587209.chunk.js",
+    "index.html": "/chat-app/index.html"
   },
   "entrypoints": [
     "static/css/main.4d69d18e.css",
-    "static/js/main.10627ed3.js"
+    "static/js/main.470793f8.js"
   ]
 }
