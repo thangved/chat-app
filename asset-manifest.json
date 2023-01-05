@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.b990902d.css",
-    "main.js": "/static/js/main.7682e35d.js",
-    "static/js/377.0ed652e3.chunk.js": "/static/js/377.0ed652e3.chunk.js",
-    "index.html": "/index.html",
-    "main.b990902d.css.map": "/static/css/main.b990902d.css.map",
-    "main.7682e35d.js.map": "/static/js/main.7682e35d.js.map",
-    "377.0ed652e3.chunk.js.map": "/static/js/377.0ed652e3.chunk.js.map"
+    "main.css": "thangved.github.io/chat-app/static/css/main.4d69d18e.css",
+    "main.js": "thangved.github.io/chat-app/static/js/main.10627ed3.js",
+    "static/js/922.9b587209.chunk.js": "thangved.github.io/chat-app/static/js/922.9b587209.chunk.js",
+    "index.html": "thangved.github.io/chat-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.b990902d.css",
-    "static/js/main.7682e35d.js"
+    "static/css/main.4d69d18e.css",
+    "static/js/main.10627ed3.js"
   ]
 }
