@@ -7,7 +7,7 @@ jobs:
     concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     env:
-      PUBLIC_URL: thangved.github.io/chat-app/
+      PUBLIC_URL: /chat-app/
       GENERATE_SOURCEMAP: false
     steps:
       - name: Checkout 🛎️
