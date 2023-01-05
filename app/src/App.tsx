@@ -9,17 +9,17 @@ import UsersList from "./components/UsersList";
 import ApplicationProvider from "./provider/ApplicationProvider";
 
 export const App = () => {
-	return (
-		<ChakraProvider theme={theme}>
-			<ApplicationProvider>
-				<Box display="flex" flexDirection="column" height="100vh" p="2">
-					<AppBar />
-					<Messages />
-					<MessageInput />
-					<UsersList />
-				</Box>
-			</ApplicationProvider>
-			<Toaster position="top-right" />
-		</ChakraProvider>
-	);
+  return (
+    <ChakraProvider theme={theme}>
+      <ApplicationProvider>
+        <Box display="flex" flexDirection="column" height="100vh" p="2">
+          <AppBar />
+          <Messages />
+          <MessageInput />
+          <UsersList />
+        </Box>
+      </ApplicationProvider>
+      <Toaster position="top-right" />
+    </ChakraProvider>
+  );
 };
