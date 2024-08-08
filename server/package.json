@@ -11,7 +11,7 @@
   "dependencies": {
     "dotenv": "^16.0.0",
     "http": "^0.0.1-security",
-    "socket.io": "^4.4.1"
+    "socket.io": "^4.6.2"
   },
   "devDependencies": {
     "node-type": "^1.1.1",
